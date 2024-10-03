@@ -1,0 +1,15 @@
+alias adog='git log --all --decorate --oneline --graph'
+alias gst='git status'
+alias pip='python -m pip'
+alias python='python3'
+alias sbrc="source ~/.bashrc && echo 'sourced ~/.bashrc'"
+alias ls='ls --color=auto'
+alias dir='dir --color=auto'
+alias vdir='vdir --color=auto'
+alias grep='grep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias egrep='egrep --color=auto'
+alias ll='ls -al'
+alias ls='ls -F --color=auto'
+alias l='ls -cF'
+
